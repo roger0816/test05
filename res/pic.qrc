@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bA.png</file>
+        <file>bBg.png</file>
+        <file>bBg2.png</file>
+        <file>bBg2_0.png</file>
+        <file>bBg2_1.png</file>
+        <file>bBg2_2.png</file>
+        <file>bBg2_3.png</file>
+        <file>bBg2_4.png</file>
+        <file>bBg2_5.png</file>
+        <file>bBg2_6.png</file>
+        <file>bBg2_7.png</file>
+        <file>c0.png</file>
+        <file>c1.png</file>
+        <file>c2.png</file>
+        <file>bgL_0.png</file>
+        <file>bgL_1.png</file>
+        <file>bgL_2.png</file>
+        <file>Real_Demo_V3.png</file>
+        <file>demoV3_0.png</file>
+    </qresource>
+</RCC>
